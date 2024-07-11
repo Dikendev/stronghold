@@ -1,10 +1,10 @@
 {
   "name": "stronghold",
   "version": "0.0.1",
-  "description": "",
+  "description": "A system for managing and tracking the progress of your appointment with houses of ayahuasca.",
   "author": "",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "BSD-3-Clause",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
