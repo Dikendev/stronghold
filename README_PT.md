@@ -8,7 +8,7 @@ Uma plataforma capaz de automatizar e facilitar organizadores de eventos na cria
 
 ## Modelagem do banco de dados
 
-<a target="_blank"><img src="/assets/database_relations.png" alt="Database modeling" /></a>
+<a target="_blank"><img src="/assets/database_relations_v2.png" alt="Database modeling" /></a>
 
 ## Instalação
 
