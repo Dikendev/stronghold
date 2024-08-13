@@ -9,7 +9,7 @@ In this project, I'll be building an alternative to Google Forms too, starting w
 
 ## Database Modeling
 
-<a target="_blank"><img src="/assets/database_relations.png" alt="Database modeling" /></a>
+<a target="_blank"><img src="/assets/database_relations_v2.png" alt="Database modeling" /></a>
 
 ## Installation
 
