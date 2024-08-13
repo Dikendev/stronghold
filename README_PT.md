@@ -1,4 +1,4 @@
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
+<a href="/README_PT.md" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
 
 Linguagens: <a href="https://www.npmjs.com/~nestjscore" target="_blank">EN_US: 🇺🇸</a>
 
