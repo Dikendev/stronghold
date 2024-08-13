@@ -1,6 +1,6 @@
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
 
-Languages: <a href="https://www.npmjs.com/~nestjscore" target="_blank">PT_BR: 🇧🇷</a>
+Languages: <a href="/README_PT.md" target="_blank">PT_BR: 🇧🇷</a>
 
 # A Scheduling and Management Solution for Business Events
 
