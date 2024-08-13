@@ -1,9 +1,11 @@
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
 
-# Leverage Booking and Management Solutions for Business Events
+Languages: <a href="https://www.npmjs.com/~nestjscore" target="_blank">PT_BR: 🇧🇷</a>
+
+# A Scheduling and Management Solution for Business Events
 
 A platform capable of automating and facilitating event organizers in the creation and improvement of time management for the business.
-In this project, I'll be building an alternative to Google Forms too, starting with an initial version and aiming to incorporate all functionalities later on (hopefully).
+In this project, I'll be building an alternative to Google Forms too, starting with an initial version and aiming to incorporate all functionalities later on.
 
 ## Database Modeling
 
