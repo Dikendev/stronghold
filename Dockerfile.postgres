@@ -1,0 +1,10 @@
+# Use official PostgreSQL image
+FROM postgres:latest
+
+# Set environment variables used in prisma service
+ENV POSTGRES_DB = database_healing_nature  
+ENV POSTGRES_USER = healing_nature
+ENV POSTGRES_PASSWORD = healing_nature_potato
+
+# Expose the PostgreSQL port
+EXPOSE 5432
