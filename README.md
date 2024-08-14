@@ -19,6 +19,12 @@ To install all the dependencies, use the package manager [npm](https://www.npmjs
 npm install
 ```
 
+Run docker configuration file script
+
+```bash
+docker-compose up --build -d
+```
+
 ## Dependencies
 
 Under development
