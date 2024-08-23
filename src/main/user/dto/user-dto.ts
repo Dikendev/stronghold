@@ -1,15 +1,8 @@
 import { UserSchema } from '../model/user-model';
+import { z } from 'zod';
 
-export class UserDto implements UserDtoSchema {
-  name: string;
-  email: string;
-  password: string;
-  phone: string;
-  photo: string;
-  role: string;
-}
+export const CreateUserSchema = UserSchema.omit({
+  id: true,
+});
 
-export type UserDtoSchema = Omit<
-  UserSchema,
-  'id' | 'createdAt' | 'updatedAt' | 'updatedBy'
->;
+export type CreateUserDto = z.infer<typeof CreateUserSchema>;
